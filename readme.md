@@ -33,8 +33,4 @@ Tables
 |Sarah mamhiyo  |sarah@gmail.com   |
 |nyasha muneri  |nyasha@gmail.com  |
 
-TASK LIST
-
-*[x] Task 1
-*[x] Task 2
-*[] Task 3
+this is the training
